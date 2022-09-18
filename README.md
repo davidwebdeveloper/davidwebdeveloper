@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/davidm36647865" target="blank"><img src="https://img.shields.io/twitter/follow/davidm36647865?logo=twitter&style=for-the-badge" alt="davidm36647865" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Visualizing and Predicting Heart Diseases with an Interacting Dashboard**
 
 - 🌱 I’m currently learning **JavaScript**
 
