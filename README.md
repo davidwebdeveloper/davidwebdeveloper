@@ -18,12 +18,12 @@
 ### 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidgithubhandle&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgithubhandle&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davidwebdeveloper&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwebdeveloper&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=davidgithubhandle&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=davidwebdeveloper&theme=tokyonight" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Here are a few highlights of what I'm working on:
 ### 🏆 GitHub Trophy Cabinet
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davidgithubhandle&theme=tokyonight&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=davidwebdeveloper&theme=tokyonight&column=7" />
 </p>
 
 ---
